@@ -2,3 +2,4 @@
 Stories: login,portfolio,buy,sell,history
 Edited on github by bhargav
 
+Buy order rule: quantity must be greater than zero
